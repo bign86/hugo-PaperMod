@@ -150,7 +150,7 @@
 }
 
 .post-content .highlight table {
-    border-radius: var(--radius);
+    /*border-radius: var(--radius);*/
 }
 
 .post-content .highlight:not(table) {
@@ -204,7 +204,7 @@
     padding: 10px;
     color: rgb(213, 213, 214);
     background: var(--code-block-bg) !important;
-    border-radius: var(--radius);
+    /*border-radius: var(--radius);*/
     overflow-x: auto;
     word-break: break-all;
 }
